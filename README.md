@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner/database.jpg" width="900"/>
+  <img src="assets/banner/microsoft-banner.png" width="900"/>
 </p>
 
 <h1 align="center">DATABASE</h1>
