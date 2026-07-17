@@ -253,4 +253,92 @@ microsoft-engineering/
 
 ---
 
+## Technical Domains
+
+### Domain Name
+
+Descripción del dominio y su importancia dentro del ecosistema tecnológico.
+
+Incluye:
+
+- Tecnologías principales.
+- Herramientas utilizadas.
+- Casos de uso.
+- Aplicaciones empresariales.
+
+---
+
+## Labs
+
+Los laboratorios documentarán escenarios prácticos relacionados con administración de servidores Windows, Active Directory, Azure, PowerShell e infraestructura Microsoft.
+
+Cada laboratorio incluirá:
+
+- Objetivo
+- Requisitos
+- Procedimiento
+- Evidencia
+- Resultados
+- Lecciones aprendidas
+
+### Example
+
+```text
+labs/
+│
+├── lab-01-name/
+├── lab-02-name/
+└── lab-03-name/
+```
+
+---
+
+## Projects
+
+Los proyectos estarán orientados a implementar soluciones Microsoft en escenarios empresariales.
+
+Ejemplos:
+
+- Implementación de Active Directory.
+- Infraestructura Windows Server.
+- Automatización con PowerShell.
+- Administración de Azure.
+- Entornos híbridos.
+- Servicios empresariales.
+
+---
+
+## Learning Paths
+
+Cada dominio tecnológico mantendrá sus propias rutas de aprendizaje y certificaciones.
+
+Ejemplo:
+
+```text
+windows-server/
+
+└── learning-paths/
+
+active-directory/
+
+└── learning-paths/
+
+```
+
+---
+
+## Documentation Standards
+
+Toda la documentación seguirá principios de:
+
+- Claridad técnica.
+- Organización consistente.
+- Evidencia práctica.
+- Reproducibilidad.
+- Referencias oficiales.
+- Mejora continua.
+
+---
+
+
 
